@@ -7,3 +7,6 @@ D:\Projects\Shrp\3DCity\3DCity\obj\Debug\Interop.Ingeo.dll
 D:\Projects\Shrp\3DCity\3DCity\obj\Debug\Interop.InScripting.dll
 D:\Projects\Shrp\3DCity\3DCity\obj\Debug\3DCity.csproj.ResolveComReference.cache
 D:\Projects\Shrp\3DCity\3DCity\bin\Debug\3DCity.tlb
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\LandScape3D.Form1.resources
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\GenerateResource.write.1.tlog

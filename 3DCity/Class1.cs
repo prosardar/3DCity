@@ -23,7 +23,7 @@ namespace LandScape3D
           //  bdb = new BackupDb(Ingeo);
 
             f = new Form1(Ingeo);
-
+            f.Show();
             System.Windows.Forms.MessageBox.Show("Forms loaded");
         }
 
