@@ -1,0 +1,9 @@
+D:\Projects\Shrp\3DCity\3DCity\bin\Debug\3DCity.dll
+D:\Projects\Shrp\3DCity\3DCity\bin\Debug\3DCity.pdb
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\3DCity.dll
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\3DCity.pdb
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\Interop.Ingeo.dll
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\Interop.InScripting.dll
+D:\Projects\Shrp\3DCity\3DCity\obj\Debug\3DCity.csproj.ResolveComReference.cache
+D:\Projects\Shrp\3DCity\3DCity\bin\Debug\3DCity.tlb
