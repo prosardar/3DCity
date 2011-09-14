@@ -77,6 +77,12 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GraphicEngine\GraphicEngine.csproj">
+      <Project>{9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC}</Project>
+      <Name>GraphicEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
