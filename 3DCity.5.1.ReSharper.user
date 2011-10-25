@@ -9,8 +9,13 @@
   <RecentFiles>
     <RecentFiles>
       <File id="9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC/f:Class1.cs" caret="223" fromTop="12" />
+<<<<<<< HEAD
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="498" fromTop="10" />
+=======
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="693" fromTop="30" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
     </RecentFiles>
     <RecentEdits>
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="337" fromTop="14" />

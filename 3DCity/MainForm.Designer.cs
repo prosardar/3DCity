@@ -28,13 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.components = new System.ComponentModel.Container();
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+<<<<<<< HEAD
             this.treeViewDataBase = new System.Windows.Forms.TreeView();
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
             this.button1 = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.dfgToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -51,7 +57,11 @@
             this.pasteToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.helpToolStripButton = new System.Windows.Forms.ToolStripButton();
+<<<<<<< HEAD
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+=======
+            this.treeViewDataBase = new System.Windows.Forms.TreeView();
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
             this.toolStripContainer1.BottomToolStripPanel.SuspendLayout();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.TopToolStripPanel.SuspendLayout();
@@ -122,6 +132,7 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Панель управления";
             // 
+<<<<<<< HEAD
             // treeViewDataBase
             // 
             this.treeViewDataBase.Dock = System.Windows.Forms.DockStyle.Top;
@@ -133,6 +144,8 @@
             this.treeViewDataBase.Size = new System.Drawing.Size(316, 245);
             this.treeViewDataBase.TabIndex = 1;
             // 
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(241, 367);
@@ -276,6 +289,7 @@
             this.helpToolStripButton.Size = new System.Drawing.Size(23, 22);
             this.helpToolStripButton.Text = "He&lp";
             // 
+<<<<<<< HEAD
             // imageList1
             // 
             this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
@@ -291,6 +305,15 @@
             this.imageList1.Images.SetKeyName(8, "symbol.bmp");
             this.imageList1.Images.SetKeyName(9, "semtable.bmp");
             this.imageList1.Images.SetKeyName(10, "raster.bmp");
+=======
+            // treeViewDataBase
+            // 
+            this.treeViewDataBase.Dock = System.Windows.Forms.DockStyle.Top;
+            this.treeViewDataBase.Location = new System.Drawing.Point(3, 16);
+            this.treeViewDataBase.Name = "treeViewDataBase";
+            this.treeViewDataBase.Size = new System.Drawing.Size(316, 245);
+            this.treeViewDataBase.TabIndex = 1;
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
             // 
             // MainForm
             // 
@@ -344,6 +367,9 @@
         private System.Windows.Forms.ToolStripMenuItem настройкиToolStripMenuItem;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TreeView treeViewDataBase;
+<<<<<<< HEAD
         private System.Windows.Forms.ImageList imageList1;
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
     }
 }

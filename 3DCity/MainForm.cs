@@ -26,18 +26,25 @@ namespace LandScape3D
 
         public void InitializeTreeViewDb()
         {
+<<<<<<< HEAD
             TreeNode aActiveDbTreeNode = treeViewDataBase.Nodes.Add("ActiveDb", _Application.ActiveDb.Caption);
 
             aActiveDbTreeNode.ImageIndex = 0;
             aActiveDbTreeNode.SelectedImageIndex = 0;
+=======
+            TreeNode aActiveDbTreeNode = treeViewDataBase.Nodes.Add("ActiveDb", "ActiveDb");
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
 
             foreach (IIngeoArea area in _Application.ActiveDb.Areas)
             {
                 TreeNode aAreaTreeNode = aActiveDbTreeNode.Nodes.Add("Area", area.Name);
 
+<<<<<<< HEAD
                 aAreaTreeNode.ImageIndex = 1;
                 aAreaTreeNode.SelectedImageIndex = 1;
 
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
                 foreach (IIngeoMap map in area.Maps)
                 {
                     TreeNode aMapTreeNode = aAreaTreeNode.Nodes.Add("Map", map.Name);
@@ -45,13 +52,17 @@ namespace LandScape3D
                     if (map is IIngeoVectorMap)
                     {
 
+<<<<<<< HEAD
                         aMapTreeNode.ImageIndex = 3;
                         aMapTreeNode.SelectedImageIndex = 3;
 
+=======
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
                         foreach (IIngeoLayer layer in (map as IIngeoVectorMap).Layers)
                         {
                             TreeNode aLayerTreeNode = aMapTreeNode.Nodes.Add("Layer", layer.Name);
 
+<<<<<<< HEAD
                             aLayerTreeNode.ImageIndex = 4;
                             aLayerTreeNode.SelectedImageIndex = 4;
 
@@ -107,6 +118,19 @@ namespace LandScape3D
                     }
                 }
             }
+=======
+
+
+                        }
+                    }
+
+                }
+
+
+            }
+            
+
+>>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
         }
 
         public MainForm()
