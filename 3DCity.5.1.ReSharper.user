@@ -1,0 +1,52 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC/f:Class1.cs" caret="223" fromTop="12" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="498" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="337" fromTop="14" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="693" fromTop="30" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="742" fromTop="30" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="475" fromTop="19" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="500" fromTop="19" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ViewTableForm`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="ViewTableForm" priority="0" />
+      <Item value="aViewTableForm" priority="0" />
+      <Item value="_ViewTableForm" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="bindingSource1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LandScape3D.ViewTableForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.BindingSource">
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

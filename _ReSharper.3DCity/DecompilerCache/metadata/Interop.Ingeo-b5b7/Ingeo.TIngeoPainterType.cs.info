@@ -1,0 +1,7 @@
+R# version: 5.1.1727.12
+assembly Interop.Ingeo, Version=1.0.0.0, Culture=neutral
+  file D:\Projects\Shrp\Study\3DCity\3DCity\obj\Debug\Interop.Ingeo.dll mtime 13.09.2011 9:30:11
+referenced assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll mtime 09.07.2011 3:30:10
+referenced assembly Interop.InScripting, Version=1.0.0.0, Culture=neutral
+  file D:\Projects\Shrp\Study\3DCity\3DCity\obj\Debug\Interop.InScripting.dll mtime 19.10.2011 10:34:40

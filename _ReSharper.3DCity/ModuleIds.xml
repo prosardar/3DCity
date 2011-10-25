@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC" ModuleId="GraphicEngine" />
+  <Module PersistentId="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE" ModuleId="3DCity" />
+  <Module PersistentId="Interop.Ingeo, Version=1.0.0.0, Culture=neutral" ModuleId="Interop.Ingeo" />
+</Modules>
