@@ -3,27 +3,35 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC/f:Class1.cs" caret="223" fromTop="12" />
-<<<<<<< HEAD
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
-      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="498" fromTop="10" />
-=======
-      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="693" fromTop="30" />
-      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
->>>>>>> ef18f144040be708478faf6dde1bfa7d1ed2d067
+      <File id="d:Miscellaneous Files/f:Ingeo.IIngeoPainter.cs/l:D!?Projects?Shrp?Study?3DCity?_ReSharper.3DCity?DecompilerCache?metadata?Interop.Ingeo-b5b7?Ingeo.IIngeoPainter.cs" caret="1308" fromTop="27" />
+      <File id="d:Miscellaneous Files/f:Ingeo.TIngeoPainterType.cs/l:D!?Projects?Shrp?Study?3DCity?_ReSharper.3DCity?DecompilerCache?metadata?Interop.Ingeo-b5b7?Ingeo.TIngeoPainterType.cs" caret="315" fromTop="8" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="2796" fromTop="73" />
+      <File id="9CFA7A3F-1F2C-4B1B-9B99-B4D52C4E66BC/f:Class1.cs" caret="231" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="337" fromTop="14" />
-      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="693" fromTop="30" />
-      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="742" fromTop="30" />
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="475" fromTop="19" />
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="500" fromTop="19" />
       <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:ViewTableForm.cs" caret="365" fromTop="15" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="1302" fromTop="31" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="4732" fromTop="47" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="1133" fromTop="16" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="1487" fromTop="26" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="1834" fromTop="33" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="751" fromTop="6" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="4439" fromTop="47" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="2569" fromTop="43" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="2715" fromTop="26" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="4133" fromTop="52" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="3201" fromTop="35" />
+      <File id="8ABA16EC-371B-4CAE-8F63-BB09127B0FEE/f:MainForm.cs" caret="3637" fromTop="42" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -46,12 +54,65 @@
       <Item value="_ViewTableForm" priority="0" />
       <Item value="Close`0" priority="0" />
       <Item value="bindingSource1" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="IIngeoStyle`0" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="layer" priority="1" />
+      <Item value="TreeNode`0" priority="3" />
+      <Item value="style" priority="2" />
+      <Item value="aLayerTreeNode" priority="3" />
+      <Item value="aAreaTreeNode" priority="0" />
+      <Item value="aActiveDbTreeNode" priority="1" />
+      <Item value="else" priority="2" />
+      <Item value="aMapTreeNode" priority="0" />
+      <Item value="aStyleTreeNode" priority="2" />
+      <Item value="_Application" priority="0" />
+      <Item value="IIngeoSemTable`0" priority="0" />
+      <Item value="ingeoSemTable" priority="0" />
+      <Item value="SemTable" priority="0" />
+      <Item value="aSemTable" priority="1" />
+      <Item value="IIngeoPainter`0" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="painter" priority="2" />
+      <Item value="as" priority="0" />
+      <Item value="IIngeoStdPainter`0" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="IIngeoTextPainter`0" priority="0" />
+      <Item value="stdPainter" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:LandScape3D.ViewTableForm">
       <Item value="ShowDialog`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.BindingSource">
       <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoLayer">
+      <Item value="Styles" priority="0" />
+      <Item value="SemTables" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Nodes" priority="3" />
+      <Item value="ImageIndex" priority="6" />
+      <Item value="SelectedImageIndex" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Add`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoStyle">
+      <Item value="Name" priority="0" />
+      <Item value="Painters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoApplication">
+      <Item value="ActiveDb" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoDb">
+      <Item value="Caption" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoSemTable">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ingeo.IIngeoPainter">
+      <Item value="PainterType" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
