@@ -11,7 +11,7 @@ namespace LandScape3D
     [Guid("5b71e6e1-e7bb-4e61-be5d-60e46e9bfb22")]
     public class Engine3DCOM
     {
-        Form1 f;
+        MainForm f;
 
         public Engine3DCOM()
         {
@@ -20,7 +20,7 @@ namespace LandScape3D
 
         public void Init(IIngeoApplication Ingeo)
         {
-            f = new Form1(Ingeo);
+            f = new MainForm(Ingeo);
             f.Show();
         }
 

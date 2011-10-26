@@ -3,3 +3,8 @@ D:\Projects\Shrp\3DCity\GraphicEngine\bin\Debug\GraphicEngine.pdb
 D:\Projects\Shrp\3DCity\GraphicEngine\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\Shrp\3DCity\GraphicEngine\obj\Debug\GraphicEngine.dll
 D:\Projects\Shrp\3DCity\GraphicEngine\obj\Debug\GraphicEngine.pdb
+D:\Projects\Shrp\Study\3DCity\GraphicEngine\bin\Debug\GraphicEngine.dll
+D:\Projects\Shrp\Study\3DCity\GraphicEngine\bin\Debug\GraphicEngine.pdb
+D:\Projects\Shrp\Study\3DCity\GraphicEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Shrp\Study\3DCity\GraphicEngine\obj\Debug\GraphicEngine.dll
+D:\Projects\Shrp\Study\3DCity\GraphicEngine\obj\Debug\GraphicEngine.pdb
